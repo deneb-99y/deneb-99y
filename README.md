@@ -7,13 +7,13 @@
 ### <div align="center">I'm YeongHun Kim, Novice developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently studying in SSAFY 
+- 🌱 I’m currently studying in SSAFY 
   
 
-- 🌱 I’m currently learning Python and Java
+- ⚡ I’m currently learning Python and Java
 
 
-- ⚡ Fun fact: I am interested in physics and semiconductors.
+- 🔭 Fun fact: I am interested in physics and semiconductors.
   
 
 <br/>  
