@@ -10,7 +10,7 @@
 - 🌱 I’m currently studying in SSAFY 
   
 
-- ⚡ I’m currently learning Python and Java
+- ⚡ I’m currently learning Python and C++
 
 
 - 🔭 Fun fact: I am interested in physics and semiconductors.
