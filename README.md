@@ -7,7 +7,7 @@
 ### <div align="center">I'm YeongHun Kim, Novice developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently studying in SSAFY 
+- 🌱 I studied at SSAFY 
   
 
 - ⚡ I’m currently learning Python and C++
